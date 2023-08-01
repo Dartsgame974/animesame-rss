@@ -1,4 +1,17 @@
+local function fileExists(path)
+    return fs.exists(path) and not fs.isDir(path)
+end
+
+if not fileExists("update.lua") then
+    shell.run("wget", "https://github.com/Dartsgame974/animesame-rss/raw/main/update.lua", "update.lua")
+end
+
+if not fileExists("boot.nfp") then
+    shell.run("wget", "https://github.com/Dartsgame974/animesame-rss/raw/main/boot.nfp", "boot.nfp")
+end
+
 local url = "https://raw.githubusercontent.com/Dartsgame974/animesame-rss/main/flux.json"
+
 
 local function getJSON(url)
     local response = http.get(url)
