@@ -29,14 +29,11 @@ Pour installer le programme, exécutez la commande suivante dans l'ordinateur Mi
 ## Note :
 Le fichier JSON utilisé par ce programme est régulièrement mis à jour toutes les deux heures grâce à un script Google Apps Script. Le script utilise un token personnel pour effectuer une requête API et mettre à jour le fichier "flux.json" du dépôt GitHub. Cette mise à jour permet d'obtenir les informations les plus récentes sur les épisodes d'anime.
 
-_Add "made with ChatGPT 3.5 Turbo" styled texte italic grey_
-> *made with ChatGPT 3.5 Turbo*
+_made with ChatGPT 3.5 Turbo"_
 
-_Add my discord Dartsgame#7825(dartsgame)_
-> Discord : Dartsgame#7825 (dartsgame)
 
-_Add source of page https://anime-sama.fr/_
+_Discord Dartsgame#7825(dartsgame)_
+
 > Source de la page : [anime-sama.fr](https://anime-sama.fr/)
 
-_Add mention this project is not for commercial but for educational and hobbies_
 > **Remarque :** Ce projet n'est pas destiné à un usage commercial, mais à des fins éducatives et de loisirs.
