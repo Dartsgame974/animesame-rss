@@ -1,6 +1,6 @@
 # Animesame RSS - Guide d'utilisation
 
-Ce programme est conçu pour afficher le planning des épisodes d'anime à partir d'un fichier JSON en ligne en utilisant ComputerCraft et le mod Minecraft.
+Ce programme est conçu pour afficher le planning des épisodes d'anime à partir d'un fichier JSON en ligne en utilisant le mod ComputerCraft.
 
 ## Prérequis :
 1. Ce programme nécessite l'installation du mod ComputerCraft dans Minecraft.
