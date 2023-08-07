@@ -60,7 +60,7 @@
         "nom": "Chainsaw Man",
         "url": "chainsaw-man/scan/vf",
         "heure": "18h30",
-        "probleme": "Report?",
+        "probleme": "",
         "langue": "VF"
       },
       {
@@ -86,14 +86,14 @@
         "nom": "Tonikaku Kawaii High School Days",
         "url": "tonikaku-kawaii/oav/vostfr",
         "heure": "08h00",
-        "probleme": "Report?",
+        "probleme": "",
         "langue": "VOSTFR"
       },
       {
         "nom": "Tonikaku Kawaii High School Days",
         "url": "tonikaku-kawaii/oav/vf",
         "heure": "08h00",
-        "probleme": "Report?",
+        "probleme": "",
         "langue": "VF"
       },
       {
@@ -210,14 +210,14 @@
         "nom": "Kaiju No.8",
         "url": "kaiju-n8/scan/vf",
         "heure": "18h30",
-        "probleme": "",
+        "probleme": "Report?",
         "langue": "VF"
       },
       {
         "nom": "One Piece",
         "url": "one-piece/scan_noir-et-blanc/vf",
         "heure": "?",
-        "probleme": "",
+        "probleme": "Report?",
         "langue": "VF"
       },
       {
@@ -285,21 +285,21 @@
         "nom": "My Hero Academia",
         "url": "my-hero-academia/scan/vf",
         "heure": "?",
-        "probleme": "",
+        "probleme": "Report?",
         "langue": "VF"
       },
       {
         "nom": "Jujutsu Kaisen",
         "url": "jujutsu-kaisen/scan/vf",
         "heure": "?",
-        "probleme": "",
+        "probleme": "Report?",
         "langue": "VF"
       },
       {
         "nom": "Black Clover",
         "url": "black-clover/scan/vf",
         "heure": "?",
-        "probleme": "",
+        "probleme": "Report?",
         "langue": "VF"
       }
     ]
@@ -381,14 +381,14 @@
         "nom": "My Tiny Senpai",
         "url": "my-tiny-senpai/saison1/vostfr",
         "heure": "20h45",
-        "probleme": "",
+        "probleme": "Report?",
         "langue": "VOSTFR"
       },
       {
         "nom": "Am I Actually the Strongest?",
         "url": "am-i-actually-the-strongest/saison1/vostfr",
         "heure": "21h15",
-        "probleme": "",
+        "probleme": "Report?",
         "langue": "VOSTFR"
       },
       {
@@ -421,7 +421,7 @@
         "nom": "Bucket List of the Dead",
         "url": "bucket-list-of-the-dead/saison1/vostfr",
         "heure": "11h30",
-        "probleme": "Report?",
+        "probleme": "",
         "langue": "VOSTFR"
       },
       {
@@ -477,14 +477,14 @@
         "nom": "Sakamoto Days",
         "url": "sakamoto-days/scan/vf",
         "heure": "17h20",
-        "probleme": "",
+        "probleme": "Report?",
         "langue": "VF"
       },
       {
         "nom": "Undead Unluck",
         "url": "undead-unluck/scan/vf",
         "heure": "17h20",
-        "probleme": "",
+        "probleme": "Report?",
         "langue": "VF"
       },
       {
